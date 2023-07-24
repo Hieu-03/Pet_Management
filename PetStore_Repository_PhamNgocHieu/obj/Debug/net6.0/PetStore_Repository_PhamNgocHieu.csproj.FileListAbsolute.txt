@@ -1,0 +1,28 @@
+C:\Users\Hieu-Acer\Desktop\Summer 2023\Thi\Exam PRN211\PE_PRN211_SU23_TrialTest_PhamNgocHieu\PetStore_Repository_PhamNgocHieu\bin\Debug\net6.0\PetStore_Repository_PhamNgocHieu.deps.json
+C:\Users\Hieu-Acer\Desktop\Summer 2023\Thi\Exam PRN211\PE_PRN211_SU23_TrialTest_PhamNgocHieu\PetStore_Repository_PhamNgocHieu\bin\Debug\net6.0\PetStore_Repository_PhamNgocHieu.dll
+C:\Users\Hieu-Acer\Desktop\Summer 2023\Thi\Exam PRN211\PE_PRN211_SU23_TrialTest_PhamNgocHieu\PetStore_Repository_PhamNgocHieu\bin\Debug\net6.0\PetStore_Repository_PhamNgocHieu.pdb
+C:\Users\Hieu-Acer\Desktop\Summer 2023\Thi\Exam PRN211\PE_PRN211_SU23_TrialTest_PhamNgocHieu\PetStore_Repository_PhamNgocHieu\obj\Debug\net6.0\PetStore_Repository_PhamNgocHieu.csproj.AssemblyReference.cache
+C:\Users\Hieu-Acer\Desktop\Summer 2023\Thi\Exam PRN211\PE_PRN211_SU23_TrialTest_PhamNgocHieu\PetStore_Repository_PhamNgocHieu\obj\Debug\net6.0\PetStore_Repository_PhamNgocHieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu-Acer\Desktop\Summer 2023\Thi\Exam PRN211\PE_PRN211_SU23_TrialTest_PhamNgocHieu\PetStore_Repository_PhamNgocHieu\obj\Debug\net6.0\PetStore_Repository_PhamNgocHieu.AssemblyInfoInputs.cache
+C:\Users\Hieu-Acer\Desktop\Summer 2023\Thi\Exam PRN211\PE_PRN211_SU23_TrialTest_PhamNgocHieu\PetStore_Repository_PhamNgocHieu\obj\Debug\net6.0\PetStore_Repository_PhamNgocHieu.AssemblyInfo.cs
+C:\Users\Hieu-Acer\Desktop\Summer 2023\Thi\Exam PRN211\PE_PRN211_SU23_TrialTest_PhamNgocHieu\PetStore_Repository_PhamNgocHieu\obj\Debug\net6.0\PetStore_Repository_PhamNgocHieu.csproj.CoreCompileInputs.cache
+C:\Users\Hieu-Acer\Desktop\Summer 2023\Thi\Exam PRN211\PE_PRN211_SU23_TrialTest_PhamNgocHieu\PetStore_Repository_PhamNgocHieu\obj\Debug\net6.0\PetStore_Repository_PhamNgocHieu.dll
+C:\Users\Hieu-Acer\Desktop\Summer 2023\Thi\Exam PRN211\PE_PRN211_SU23_TrialTest_PhamNgocHieu\PetStore_Repository_PhamNgocHieu\obj\Debug\net6.0\refint\PetStore_Repository_PhamNgocHieu.dll
+C:\Users\Hieu-Acer\Desktop\Summer 2023\Thi\Exam PRN211\PE_PRN211_SU23_TrialTest_PhamNgocHieu\PetStore_Repository_PhamNgocHieu\obj\Debug\net6.0\PetStore_Repository_PhamNgocHieu.pdb
+C:\Users\Hieu-Acer\Desktop\Summer 2023\Thi\Exam PRN211\PE_PRN211_SU23_TrialTest_PhamNgocHieu\PetStore_Repository_PhamNgocHieu\obj\Debug\net6.0\ref\PetStore_Repository_PhamNgocHieu.dll
+C:\Users\Hieu-Acer\Desktop\Summer 2023\Thi\Exam PRN211\PE_PRN211_SU23_TrialTest_PhamNgocHieu\PetStore_Repository_PhamNgocHieu\bin\Debug\net6.0\PetStore_Repository_PhamNgocHieu.runtimeconfig.json
+C:\Users\Hieu-Acer\Desktop\Summer 2023\Thi\Exam PRN211\PE_PRN211_SU23_TrialTest_PhamNgocHieu\PetStore_Repository_PhamNgocHieu\obj\Debug\net6.0\PetStore_Repository_PhamNgocHieu.genruntimeconfig.cache
+C:\Users\Hieu-Acer\Desktop\Summer 2023\Thi\Exam PRN211\PE_PRN211_SU23_TrialTest_PhamNgocHieu - Copy\PetStore_Repository_PhamNgocHieu\obj\Debug\net6.0\PetStore_Repository_PhamNgocHieu.csproj.AssemblyReference.cache
+C:\Users\Hieu-Acer\Desktop\Summer 2023\Thi\Exam PRN211\PE_PRN211_SU23_TrialTest_PhamNgocHieu - Copy\PetStore_Repository_PhamNgocHieu\obj\Debug\net6.0\PetStore_Repository_PhamNgocHieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu-Acer\Desktop\Summer 2023\Thi\Exam PRN211\PE_PRN211_SU23_TrialTest_PhamNgocHieu - Copy\PetStore_Repository_PhamNgocHieu\obj\Debug\net6.0\PetStore_Repository_PhamNgocHieu.AssemblyInfoInputs.cache
+C:\Users\Hieu-Acer\Desktop\Summer 2023\Thi\Exam PRN211\PE_PRN211_SU23_TrialTest_PhamNgocHieu - Copy\PetStore_Repository_PhamNgocHieu\obj\Debug\net6.0\PetStore_Repository_PhamNgocHieu.AssemblyInfo.cs
+C:\Users\Hieu-Acer\Desktop\Summer 2023\Thi\Exam PRN211\PE_PRN211_SU23_TrialTest_PhamNgocHieu - Copy\PetStore_Repository_PhamNgocHieu\obj\Debug\net6.0\PetStore_Repository_PhamNgocHieu.csproj.CoreCompileInputs.cache
+C:\Users\Hieu-Acer\Desktop\Summer 2023\Thi\Exam PRN211\PE_PRN211_SU23_TrialTest_PhamNgocHieu - Copy\PetStore_Repository_PhamNgocHieu\obj\Debug\net6.0\PetStore_Repository_PhamNgocHieu.dll
+C:\Users\Hieu-Acer\Desktop\Summer 2023\Thi\Exam PRN211\PE_PRN211_SU23_TrialTest_PhamNgocHieu - Copy\PetStore_Repository_PhamNgocHieu\obj\Debug\net6.0\refint\PetStore_Repository_PhamNgocHieu.dll
+C:\Users\Hieu-Acer\Desktop\Summer 2023\Thi\Exam PRN211\PE_PRN211_SU23_TrialTest_PhamNgocHieu - Copy\PetStore_Repository_PhamNgocHieu\obj\Debug\net6.0\PetStore_Repository_PhamNgocHieu.pdb
+C:\Users\Hieu-Acer\Desktop\Summer 2023\Thi\Exam PRN211\PE_PRN211_SU23_TrialTest_PhamNgocHieu - Copy\PetStore_Repository_PhamNgocHieu\bin\Debug\net6.0\PetStore_Repository_PhamNgocHieu.deps.json
+C:\Users\Hieu-Acer\Desktop\Summer 2023\Thi\Exam PRN211\PE_PRN211_SU23_TrialTest_PhamNgocHieu - Copy\PetStore_Repository_PhamNgocHieu\bin\Debug\net6.0\PetStore_Repository_PhamNgocHieu.runtimeconfig.json
+C:\Users\Hieu-Acer\Desktop\Summer 2023\Thi\Exam PRN211\PE_PRN211_SU23_TrialTest_PhamNgocHieu - Copy\PetStore_Repository_PhamNgocHieu\bin\Debug\net6.0\PetStore_Repository_PhamNgocHieu.dll
+C:\Users\Hieu-Acer\Desktop\Summer 2023\Thi\Exam PRN211\PE_PRN211_SU23_TrialTest_PhamNgocHieu - Copy\PetStore_Repository_PhamNgocHieu\bin\Debug\net6.0\PetStore_Repository_PhamNgocHieu.pdb
+C:\Users\Hieu-Acer\Desktop\Summer 2023\Thi\Exam PRN211\PE_PRN211_SU23_TrialTest_PhamNgocHieu - Copy\PetStore_Repository_PhamNgocHieu\obj\Debug\net6.0\PetStore_Repository_PhamNgocHieu.genruntimeconfig.cache
+C:\Users\Hieu-Acer\Desktop\Summer 2023\Thi\Exam PRN211\PE_PRN211_SU23_TrialTest_PhamNgocHieu - Copy\PetStore_Repository_PhamNgocHieu\obj\Debug\net6.0\ref\PetStore_Repository_PhamNgocHieu.dll
